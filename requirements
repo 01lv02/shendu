@@ -1,6 +1,6 @@
 numpy
 streamlit
-tensorflow
+tensorflow==2.6.0
 keras==2.6.0
 math
 argparse
