@@ -1,7 +1,7 @@
 numpy
 streamlit
 tensorflow
-keras
+keras==2.6.0
 math
 argparse
 Pillow
