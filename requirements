@@ -1,0 +1,8 @@
+numpy
+streamlit
+tensorflow
+keras
+math
+argparse
+Pillow
+skimage.transform
