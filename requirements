@@ -2,7 +2,4 @@ numpy
 streamlit
 tensorflow==2.6.0
 keras==2.6.0
-math
-argparse
-Pillow
-skimage.transform
+scikit-learn
